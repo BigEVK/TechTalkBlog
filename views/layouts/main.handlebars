@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tech Talk Blog</title>
+        <link rel="stylesheet" href="/stylesheet/style.css">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <header class="hero">
+                <nav>
+                    <a href="/">Home</a>
+                    {{#if loggedIn}}
+                    <a href="/dashboard">Dashboard</a>
+                    {{else}}
+                    <a href="/login">Login</a>
+                </nav>
+                <h1>
+                    <a href="/">Tech Talk Blog</a>
+                </h1>
+            </header>
+        </div>
+    </body>
+</html>
