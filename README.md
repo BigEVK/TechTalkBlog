@@ -13,7 +13,7 @@
 ## Usage
 
 ```md
-![Dashboard](/assets/images/TechTalkBlog1.png)
+![Dashboard](/assets/images/TechTalkBlogMain.png)
 ![Login](assets/images/TechTalkBlogLogin.png)
 ```
 ***
