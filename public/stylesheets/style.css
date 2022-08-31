@@ -98,7 +98,7 @@ p {
   color: var(--primary);
 }
 
-.header nav ul {
+nav ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -106,7 +106,7 @@ p {
   list-style: none;
 }
 
-.header nav ul li a {
+nav ul li a {
   padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;

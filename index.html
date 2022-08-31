@@ -19,9 +19,10 @@
             </li>
             <li>
               {{#if loggedIn}}
-              <h2><a href="/dashboard">Dashboard</a></h2>
+                <h2><a href="/dashboard">Dashboard</a></h2>
               {{else}}
-              <a href="/login">Login</a>
+                <a href="/login">Login</a>
+              {{/if}}
             </li>
           </ul>
         </nav>
@@ -29,6 +30,12 @@
           <a>Tech Talk Blog</a>
         </h1>
       </header>
+      <main>
+        {{{body}}}
+      </main>
     </div>
+    {{#if loggedIn}}
+      <script src="/javascript/logout.js"></script>
+    {{/if}}
   </body>
 </html>
