@@ -12,10 +12,10 @@
 ***
 ## Usage
 
-```md
+
 ![Dashboard](/assets/images/TechTalkBlogMain.png)
 ![Login](assets/images/TechTalkBlogLogin.png)
-```
+
 ***
 ## Credits
 
