@@ -13,8 +13,10 @@
 ## Usage
 
 
-![Dashboard](/assets/images/TechTalkBlogMain.png)
-![Login](assets/images/TechTalkBlogLogin.png)
+<!-- ![Dashboard](/assets/images/TechTalkBlogMain.png)
+![Login](assets/images/TechTalkBlogLogin.png) -->
+<img src="assets/images/TechTalkBlogMain.png" width="400" >
+<img src="assets/images/TechTalkBlogLogin.png" width="400" >
 
 ***
 ## Credits
